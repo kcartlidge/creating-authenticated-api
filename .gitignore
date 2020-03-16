@@ -1,0 +1,14 @@
+obj/
+bin/
+packages/
+.vs/
+.vscode/
+
+Thumbs.db
+.DS_Store
+*.suo
+*.bak
+*.log
+*.vspscc
+*.pdb
+*.user
