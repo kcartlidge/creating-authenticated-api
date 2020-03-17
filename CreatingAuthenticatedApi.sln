@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0794B10-889D-4870-B310-95FF64DF0125}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		CreatingAuthenticatedApi.postman_collection.json = CreatingAuthenticatedApi.postman_collection.json
 		LICENCE = LICENCE
 		README.md = README.md
 	EndProjectSection
